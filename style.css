@@ -1,0 +1,19 @@
+/*a {*/
+    /*background-color: #a2d246;*/
+    /*color: ghostwhite;*/
+    /*text-decoration: none;*/
+/*}*/
+
+/*span {*/
+    /*background-color: #00CC66;*/
+    /*color: #3a6c7e;*/
+/*}*/
+
+.hashtag_wrapper a {
+margin: 4px;
+padding: 5px;
+border: 1px solid gray;
+border-radius: 4px;
+  color: grey;
+
+}

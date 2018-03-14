@@ -1,0 +1,45 @@
+element.style {
+}
+a {
+    color: #969696;
+    text-decoration: underline;
+}
+.logo {
+    height: 41px;
+}
+.logo {
+    border: 1px solid #969696;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    margin: 5px;
+}
+.hashtag_wrapper a {
+    border: 1px solid #969696;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    margin: 5px;
+}
+.clear{
+    clear: both;
+}
+.green_bottom {
+    border: 1px solid #98ce1e;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #98ce1e;
+    color: white;
+}
+.grey_bottom {
+    border: 1px solid #f1f1f1;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    color: white;
+}
+a:active {
+    color: black
+    text-decoration: underline;
+;
+}
